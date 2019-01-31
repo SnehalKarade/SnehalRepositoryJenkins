@@ -36,7 +36,7 @@ public static void main(String[] args) {
 		System.out.println("Selected option "+i+" : " +selectedOptions.get(i).getText());
 	}
 	
-	System.out.println("Selected option");
+	System.out.println("Selected option =============================");
 	
 	objMultiselect.deselectAll();
 	
